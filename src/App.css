@@ -1,0 +1,36 @@
+
+.container {
+  text-align: center;
+  margin: 50px auto;
+  padding: 30px;
+  width: 400px;
+  background: #f0f4ff;
+  border-radius: 15px;
+}
+
+h1 {
+  color: #333;
+}
+
+input {
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid gray;
+  border-radius: 5px;
+}
+
+button {
+  padding: 10px 20px;
+  background: blue;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.details {
+  margin-top: 20px;
+  padding: 15px;
+  background: white;
+  border-radius: 10px;
+}

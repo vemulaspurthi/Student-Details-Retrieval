@@ -1,0 +1,22 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Spurthi",
+      "course": "Biotechnology",
+      "faculty": "Dr. Ravi"
+    },
+    {
+      "id": 2,
+      "name": "Anu",
+      "course": "Bioinformatics",
+      "faculty": "Dr. Kumar"
+    },
+    {
+      "id": 3,
+      "name": "Priya",
+      "course": "Microbiology",
+      "faculty": "Dr. Sita"
+    }
+  ]
+}
